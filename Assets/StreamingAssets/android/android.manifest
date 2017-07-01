@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3253442434
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: xml_android
+      Dependencies: {}

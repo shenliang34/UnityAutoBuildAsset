@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1268008956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 396607038468b5b5ec7eb6a781425768
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Xml/New Folder/New Prefab.prefab
+- Assets/Xml/New Prefab.prefab
+- Assets/Xml/New Folder/config.xml
+Dependencies: []

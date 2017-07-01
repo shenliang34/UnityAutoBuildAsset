@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1112254212
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: xml_ios
+      Dependencies: {}
